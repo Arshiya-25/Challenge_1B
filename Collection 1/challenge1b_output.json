@@ -1,0 +1,114 @@
+{
+  "metadata": {
+    "documents": [
+      "sample_3 - 2024-cisco-full-annual-report.pdf",
+      "sample_2 - annual-report-2024-2025.pdf"
+    ],
+    "persona": "Chuck Robbins, CEO of Cisco Systems, Inc.",
+    "job_to_be_done": "Drive AI-first networking, cybersecurity, and cloud innovation across global infrastructure",
+    "timestamp": "2025-07-28T22:58:06.485215"
+  },
+  "extracted_sections": [
+    {
+      "document": "sample_3 - 2024-cisco-full-annual-report.pdf",
+      "page_number": 1,
+      "section_title": "Delivering digital",
+      "importance_rank": 0.0
+    },
+    {
+      "document": "sample_3 - 2024-cisco-full-annual-report.pdf",
+      "page_number": 4,
+      "section_title": "Letter to stockholders",
+      "importance_rank": 0.0
+    },
+    {
+      "document": "sample_3 - 2024-cisco-full-annual-report.pdf",
+      "page_number": 10,
+      "section_title": "Corporate governance",
+      "importance_rank": 0.0
+    },
+    {
+      "document": "sample_3 - 2024-cisco-full-annual-report.pdf",
+      "page_number": 131,
+      "section_title": "Stockholder information",
+      "importance_rank": 0.0
+    },
+    {
+      "document": "sample_2 - annual-report-2024-2025.pdf",
+      "page_number": 12,
+      "section_title": "CEO",
+      "importance_rank": 0.21640132401695325
+    },
+    {
+      "document": "sample_2 - annual-report-2024-2025.pdf",
+      "page_number": 81,
+      "section_title": "Discussion and",
+      "importance_rank": 0.1273178797955827
+    },
+    {
+      "document": "sample_2 - annual-report-2024-2025.pdf",
+      "page_number": 8,
+      "section_title": "Board of Directors",
+      "importance_rank": 0.11621505113567543
+    },
+    {
+      "document": "sample_2 - annual-report-2024-2025.pdf",
+      "page_number": 18,
+      "section_title": "Awards and Accolades",
+      "importance_rank": 0.10089583632154078
+    },
+    {
+      "document": "sample_2 - annual-report-2024-2025.pdf",
+      "page_number": 2,
+      "section_title": "Jamsetji Nusserwanji Tata",
+      "importance_rank": 0.0
+    }
+  ],
+  "subsection_analysis": [
+    {
+      "document": "sample_3 - 2024-cisco-full-annual-report.pdf",
+      "page_number": 1,
+      "refined_text": "2024 ANNUAL REPORT\nDelivering digital \nresilience."
+    },
+    {
+      "document": "sample_3 - 2024-cisco-full-annual-report.pdf",
+      "page_number": 4,
+      "refined_text": "2\nCisco Annual Report 2024\nFiscal 2024 was a momentous year for Cisco. We delivered \nsolid results, closed the largest acquisition in our history, \nintroduced industry-defining innovation, and served our \ncustomers and partners in new and exciting ways. After \na challenging start, we ended the year seeing steady \ncustomer demand and are entering fiscal 2025 with \nmomentum and optimism."
+    },
+    {
+      "document": "sample_3 - 2024-cisco-full-annual-report.pdf",
+      "page_number": 10,
+      "refined_text": "8\nCisco Annual Report 2024\nCorporate governance\nCisco is committed to stockholder-friendly corporate governance. The Board of Directors has adopted \nclear corporate policies that promote excellence in corporate governance. Key information regarding \nour corporate governance initiatives can be found in the Governance section of our Investor Relations \nwebsite at investor."
+    },
+    {
+      "document": "sample_3 - 2024-cisco-full-annual-report.pdf",
+      "page_number": 131,
+      "refined_text": "Principal accounting officer\nVickie Wong\nSenior Vice President and \nChief Accounting Officer\nResources\nFor more information about \nCisco, to view the Annual \nReport online, or to obtain \nother financial information \nwithout charge, contact:\nINVESTOR RELATIONS\nCisco Systems, Inc. 170 West Tasman Drive\nSan Jose, CA 95134-1706\n1 (408) 227-2726\ninvestor. com\nCisco (Nasdaq: CSCO) \nCisco’s stock trades on the \nNasdaq Global Select Market \nunder the ticker symbol CSCO."
+    },
+    {
+      "document": "sample_2 - annual-report-2024-2025.pdf",
+      "page_number": 12,
+      "refined_text": "Letter from \nthe CEO\n1\nDear Shareholders,\nI am pleased to share that in FY 2025, we achieved two \nextraordinary milestones crossing the US$30 billion mark \nin revenues and the US$20 billion mark in brand value. This \nsuccess is a testament to the early investments we have made in \nstrengthening client relationships, building intellectual property, \ndeepening employee capabilities and expanding technology \necosystem. I am grateful to every stakeholder for contributing to \nour growth and success."
+    },
+    {
+      "document": "sample_2 - annual-report-2024-2025.pdf",
+      "page_number": 81,
+      "refined_text": "Management Discussion and Analysis\nIntegrated Annual Report 2024-25\n79\nManagement \nDiscussion and \nAnalysis\nOverview of the Industry\nThe year 2024 began with signs of improved economic activity \nacross major regions. The world GDP grew at a steady rate of \n3. Despite divergent growth patterns across regions and \nsectors, the global technology landscape demonstrated \nunexpected stability."
+    },
+    {
+      "document": "sample_2 - annual-report-2024-2025.pdf",
+      "page_number": 8,
+      "refined_text": "57\n63\n71\nAverage Age\n(years) \n6\n0\n18\nAverage Tenure\non the Board (years) \n4\n0\n7\nAverage Tenure of Independent Directors\non the Board (years) \nIndependent\nNon-Independent\nBoard Independence \n62. 5%\nExecutive Committee\nStakeholders’ Relationship Committee\nRisk Management Committee*\nAudit Committee\nNomination and Remuneration Committee\nCorporate Social Responsibility Committee\n* Samir Seksaria, Chief Financial Oﬃcer, is also a member of the Committee\nNon-Independent, Executive\nNon-Independent, Non-Executive \nIndependent, Non-Executive \nM\nC\nC\nN Chandrasekaran\nChairman\nAarthi\nSubramanian\nED - President \n& COO\nK Krithivasan\nCEO & MD\nM\nM M\nM\nKeki \nMistry\nC\nC\nC\nM\n \nHanne \nSorensen \nM M\nDr Pradeep Kumar\nKhosla \nC\nM\nM\nM\nM\nSanjay V \nBhandarkar\nAl-Noor \nRamji\nM M\nBoard Committees\nChairman\nC\nM Member\nBoard of Directors\nBoard of Directors \nIntegrated Annual Report 2024-25\n6."
+    },
+    {
+      "document": "sample_2 - annual-report-2024-2025.pdf",
+      "page_number": 18,
+      "refined_text": "Awards and Accolades\nCorporate\nPartner\nFortune Magazine\nWhitelane Research\nOracle\nForbes\nNVIDIA\nOracle\nAmazon Web Services\nOracle\nMicrosoft\nFICO\nMicrosoft\nGoogle Cloud\nCRN Magazine\nSalesforce\nGoogle Cloud\nOne of the World’s Most \nAdmired Companies, 2025\n#1 IT Services Provider for \nCustomer Satisfaction, Europe\nGlobal Award in \nBusiness Impact, 2024\nLeading Management \nConsulting firm, North America\nRising Star Partner of the \nYear Award at GTC 2025\nGlobal Partner \nof the Year Award, 2024\nData and Analytics Partner of the \nYear Award in Global Consulting\nCustomer Excellence Award, 2024\nPartner of the Year Award, 2024 for \nGlobal System Integration in Canada\nGlobal System \nIntegrator Award, 2024\nForbes\nOne of the World’s Best \nManagement Consulting Companies\nAzure Partner of the Year Award, \n2024 in Sweden\n2024 Partner of the Year Award \nfor Global Expansion\n#2 in Annual Solution \nProvider 500 List, North America\nPartner Innovation Award, 2024\n2024 Data Management and \nTalent Development Award for APAC \nSSON Impact Awards – \nNorth America\nSSON Impact Awards – \nNorth America\nFinance Transformation \nImpact Award, 2025\nService Provider of the \nYear Award, 2025\nAwards & Accolades\nIntegrated Annual Report 2024-25\n16."
+    },
+    {
+      "document": "sample_2 - annual-report-2024-2025.pdf",
+      "page_number": 2,
+      "refined_text": "03 March 1839 – 19 May 1904\nJamsetji Nusserwanji Tata\nOur Founder\nIn a free enterprise, the \ncommunity is not just another \nstakeholder in business, but is in \nfact the very purpose of \nits existence."
+    }
+  ]
+}

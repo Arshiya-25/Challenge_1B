@@ -1,0 +1,495 @@
+{
+  "title": "Enhanced Customer Segmentation:",
+  "outline": [
+    {
+      "level": "H1",
+      "text": "Enhanced Customer Segmentation:",
+      "page": 1
+    },
+    {
+      "level": "H1",
+      "text": "A Comparative Analysis",
+      "page": 1
+    },
+    {
+      "level": "H2",
+      "text": "Introduction",
+      "page": 1
+    },
+    {
+      "level": "H3",
+      "text": "Accurate segmentation is vital for tailoring marketing efforts and optimizing",
+      "page": 1
+    },
+    {
+      "level": "H3",
+      "text": "Research Gap (Problems with Traditional Methods):",
+      "page": 1
+    },
+    {
+      "level": "H3",
+      "text": "Major Contributions of the Paper:",
+      "page": 1
+    },
+    {
+      "level": "H3",
+      "text": "GMM",
+      "page": 1
+    },
+    {
+      "level": "H3",
+      "text": "XAI",
+      "page": 1
+    },
+    {
+      "level": "H3",
+      "text": "Organization of the Paper:",
+      "page": 1
+    },
+    {
+      "level": "H3",
+      "text": "The paper presents the gaps in research",
+      "page": 1
+    },
+    {
+      "level": "H2",
+      "text": "Literature Review",
+      "page": 2
+    },
+    {
+      "level": "H3",
+      "text": "Researchers have suggested that the segmentation of customers into clusters provides",
+      "page": 2
+    },
+    {
+      "level": "H2",
+      "text": "Methodology",
+      "page": 3
+    },
+    {
+      "level": "H3",
+      "text": "Dataset Description:",
+      "page": 3
+    },
+    {
+      "level": "H3",
+      "text": "Pre-Processing steps:",
+      "page": 4
+    },
+    {
+      "level": "H3",
+      "text": "Model Implementation:",
+      "page": 4
+    },
+    {
+      "level": "H3",
+      "text": "The study employed three clustering techniques to identify",
+      "page": 4
+    },
+    {
+      "level": "H3",
+      "text": "K-Means:",
+      "page": 4
+    },
+    {
+      "level": "H3",
+      "text": "It assessed clustering quality by measuring how similar data points are within a",
+      "page": 4
+    },
+    {
+      "level": "H3",
+      "text": "GMM without XAI:",
+      "page": 4
+    },
+    {
+      "level": "H3",
+      "text": "GMM with XAI:",
+      "page": 5
+    },
+    {
+      "level": "H3",
+      "text": "In order to enhance the interpretability of the output obtained using",
+      "page": 5
+    },
+    {
+      "level": "H3",
+      "text": "Table 1.",
+      "page": 5
+    },
+    {
+      "level": "H3",
+      "text": "Aspect",
+      "page": 5
+    },
+    {
+      "level": "H3",
+      "text": "K-Means",
+      "page": 5
+    },
+    {
+      "level": "H3",
+      "text": "Algorithm",
+      "page": 5
+    },
+    {
+      "level": "H3",
+      "text": "Clustering assignment",
+      "page": 5
+    },
+    {
+      "level": "H3",
+      "text": "Optimal cluster method",
+      "page": 5
+    },
+    {
+      "level": "H3",
+      "text": "Bayesian",
+      "page": 5
+    },
+    {
+      "level": "H3",
+      "text": "Information",
+      "page": 5
+    },
+    {
+      "level": "H3",
+      "text": "Output",
+      "page": 5
+    },
+    {
+      "level": "H3",
+      "text": "Discrete cluster assignment",
+      "page": 5
+    },
+    {
+      "level": "H3",
+      "text": "Probability",
+      "page": 5
+    },
+    {
+      "level": "H3",
+      "text": "Interpretability",
+      "page": 5
+    },
+    {
+      "level": "H3",
+      "text": "Cluster shape assignment",
+      "page": 5
+    },
+    {
+      "level": "H3",
+      "text": "Spherical",
+      "page": 5
+    },
+    {
+      "level": "H3",
+      "text": "Ellipsoidal",
+      "page": 5
+    },
+    {
+      "level": "H3",
+      "text": "Flexibility",
+      "page": 5
+    },
+    {
+      "level": "H3",
+      "text": "Less flexible",
+      "page": 5
+    },
+    {
+      "level": "H3",
+      "text": "More flexible",
+      "page": 5
+    },
+    {
+      "level": "H2",
+      "text": "Results and Discussion",
+      "page": 6
+    },
+    {
+      "level": "H3",
+      "text": "Table 2.",
+      "page": 6
+    },
+    {
+      "level": "H3",
+      "text": "Gaussian Mixture",
+      "page": 6
+    },
+    {
+      "level": "H3",
+      "text": "Model (GMM)",
+      "page": 6
+    },
+    {
+      "level": "H3",
+      "text": "Model Performance Metrics",
+      "page": 6
+    },
+    {
+      "level": "H3",
+      "text": "Optimal",
+      "page": 6
+    },
+    {
+      "level": "H3",
+      "text": "The",
+      "page": 6
+    },
+    {
+      "level": "H3",
+      "text": "Performance",
+      "page": 6
+    },
+    {
+      "level": "H3",
+      "text": "Metrics",
+      "page": 6
+    },
+    {
+      "level": "H3",
+      "text": "Optimal Clusters",
+      "page": 6
+    },
+    {
+      "level": "H3",
+      "text": "Identification",
+      "page": 6
+    },
+    {
+      "level": "H3",
+      "text": "45 clusters.",
+      "page": 6
+    },
+    {
+      "level": "H3",
+      "text": "Probabilistic",
+      "page": 6
+    },
+    {
+      "level": "H3",
+      "text": "3 distinct customer",
+      "page": 6
+    },
+    {
+      "level": "H3",
+      "text": "Segmentation Results",
+      "page": 6
+    },
+    {
+      "level": "H3",
+      "text": "Six segments identified based",
+      "page": 6
+    },
+    {
+      "level": "H3",
+      "text": "1. Youth, high spending.",
+      "page": 6
+    },
+    {
+      "level": "H3",
+      "text": "2. Young, high earners.",
+      "page": 6
+    },
+    {
+      "level": "H3",
+      "text": "3. Middle-aged, moderate",
+      "page": 6
+    },
+    {
+      "level": "H3",
+      "text": "4. Developed, high earners,",
+      "page": 6
+    },
+    {
+      "level": "H3",
+      "text": "5. Older, low-income, low",
+      "page": 6
+    },
+    {
+      "level": "H3",
+      "text": "6. Older, moderate-income,",
+      "page": 6
+    },
+    {
+      "level": "H3",
+      "text": "Three probabilistic",
+      "page": 6
+    },
+    {
+      "level": "H3",
+      "text": "Higher",
+      "page": 6
+    },
+    {
+      "level": "H3",
+      "text": "Real-time Implementation",
+      "page": 6
+    },
+    {
+      "level": "H3",
+      "text": "Fit the",
+      "page": 6
+    },
+    {
+      "level": "H3",
+      "text": "Segment",
+      "page": 6
+    },
+    {
+      "level": "H3",
+      "text": "Use",
+      "page": 6
+    },
+    {
+      "level": "H3",
+      "text": "Applications",
+      "page": 6
+    },
+    {
+      "level": "H3",
+      "text": "Visualization",
+      "page": 6
+    },
+    {
+      "level": "H3",
+      "text": "Gaussian Mixture Model with XAI (GMM-XAI):",
+      "page": 10
+    },
+    {
+      "level": "H3",
+      "text": "Table 3.",
+      "page": 12
+    },
+    {
+      "level": "H3",
+      "text": "Suitability of clustering methods",
+      "page": 12
+    },
+    {
+      "level": "H3",
+      "text": "Parameter",
+      "page": 12
+    },
+    {
+      "level": "H3",
+      "text": "GMM with XAI",
+      "page": 12
+    },
+    {
+      "level": "H3",
+      "text": "(SHAP, LIME)",
+      "page": 12
+    },
+    {
+      "level": "H3",
+      "text": "without",
+      "page": 12
+    },
+    {
+      "level": "H3",
+      "text": "Computation",
+      "page": 12
+    },
+    {
+      "level": "H3",
+      "text": "Speed",
+      "page": 12
+    },
+    {
+      "level": "H3",
+      "text": "Clustering Time",
+      "page": 12
+    },
+    {
+      "level": "H3",
+      "text": "Slower due to the",
+      "page": 12
+    },
+    {
+      "level": "H3",
+      "text": "Granularity",
+      "page": 12
+    },
+    {
+      "level": "H3",
+      "text": "Lower clusters are",
+      "page": 12
+    },
+    {
+      "level": "H3",
+      "text": "Higher clusters can",
+      "page": 12
+    },
+    {
+      "level": "H3",
+      "text": "Effect of Data Size",
+      "page": 12
+    },
+    {
+      "level": "H3",
+      "text": "Efficient on large",
+      "page": 12
+    },
+    {
+      "level": "H3",
+      "text": "Handles larger",
+      "page": 12
+    },
+    {
+      "level": "H3",
+      "text": "Handles",
+      "page": 12
+    },
+    {
+      "level": "H3",
+      "text": "Handle Dynamic",
+      "page": 12
+    },
+    {
+      "level": "H3",
+      "text": "Data",
+      "page": 12
+    },
+    {
+      "level": "H3",
+      "text": "Clustering Result",
+      "page": 12
+    },
+    {
+      "level": "H3",
+      "text": "Efficiency",
+      "page": 12
+    },
+    {
+      "level": "H3",
+      "text": "Good for well",
+      "page": 12
+    },
+    {
+      "level": "H3",
+      "text": "Implications and Significance of the Research:",
+      "page": 12
+    },
+    {
+      "level": "H3",
+      "text": "The combination of machine",
+      "page": 12
+    },
+    {
+      "level": "H3",
+      "text": "An advancement in segmentation accuracy and clarity has been made with the use",
+      "page": 13
+    },
+    {
+      "level": "H2",
+      "text": "Conclusion",
+      "page": 13
+    },
+    {
+      "level": "H2",
+      "text": "References",
+      "page": 13
+    }
+  ]
+}

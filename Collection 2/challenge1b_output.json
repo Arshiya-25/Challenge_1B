@@ -1,0 +1,237 @@
+{
+  "metadata": {
+    "documents": [
+      "sample_11 - research paper 2.pdf",
+      "sample_10 - research paper 3.pdf",
+      "sample_4 - HCLTech_Annual_Report2023-24.pdf",
+      "sample_1 - Enhanced Customer Segmentation_springer (2).pdf"
+    ],
+    "persona": "Aman Banduni",
+    "job_to_be_done": "We use K-means clustering to revolutionize customer segmentation in retail. Big data and machine learning are reshaping market analytics for the modern age",
+    "timestamp": "2025-07-28T22:58:06.176937"
+  },
+  "extracted_sections": [
+    {
+      "document": "sample_11 - research paper 2.pdf",
+      "page_number": 1,
+      "section_title": "MACHINE LEARNING",
+      "importance_rank": 0.24085175169050188
+    },
+    {
+      "document": "sample_11 - research paper 2.pdf",
+      "page_number": 1,
+      "section_title": "CUSTOMER SEGMENTATION USING",
+      "importance_rank": 0.1833471375803307
+    },
+    {
+      "document": "sample_11 - research paper 2.pdf",
+      "page_number": 1,
+      "section_title": "Introduction",
+      "importance_rank": 0.0
+    },
+    {
+      "document": "sample_11 - research paper 2.pdf",
+      "page_number": 2,
+      "section_title": "Methodology",
+      "importance_rank": 0.0
+    },
+    {
+      "document": "sample_11 - research paper 2.pdf",
+      "page_number": 5,
+      "section_title": "Result",
+      "importance_rank": 0.0
+    },
+    {
+      "document": "sample_10 - research paper 3.pdf",
+      "page_number": 1,
+      "section_title": "Customer Segmentation Using Machine",
+      "importance_rank": 0.2564474265387754
+    },
+    {
+      "document": "sample_10 - research paper 3.pdf",
+      "page_number": 1,
+      "section_title": "Learning: A Comprehensive Research Study",
+      "importance_rank": 0.08249426400949161
+    },
+    {
+      "document": "sample_10 - research paper 3.pdf",
+      "page_number": 1,
+      "section_title": "Yash Parab,Jugal Dave",
+      "importance_rank": 0.0
+    },
+    {
+      "document": "sample_10 - research paper 3.pdf",
+      "page_number": 1,
+      "section_title": "ABSTRACT:",
+      "importance_rank": 0.0
+    },
+    {
+      "document": "sample_10 - research paper 3.pdf",
+      "page_number": 1,
+      "section_title": "1.INTRODUCTION",
+      "importance_rank": 0.0
+    },
+    {
+      "document": "sample_4 - HCLTech_Annual_Report2023-24.pdf",
+      "page_number": 4,
+      "section_title": "Message from",
+      "importance_rank": 0.0
+    },
+    {
+      "document": "sample_4 - HCLTech_Annual_Report2023-24.pdf",
+      "page_number": 6,
+      "section_title": "Message",
+      "importance_rank": 0.0
+    },
+    {
+      "document": "sample_4 - HCLTech_Annual_Report2023-24.pdf",
+      "page_number": 217,
+      "section_title": "Standalone",
+      "importance_rank": 0.0
+    },
+    {
+      "document": "sample_4 - HCLTech_Annual_Report2023-24.pdf",
+      "page_number": 217,
+      "section_title": "Ind AS",
+      "importance_rank": 0.0
+    },
+    {
+      "document": "sample_4 - HCLTech_Annual_Report2023-24.pdf",
+      "page_number": 217,
+      "section_title": "Financial Statements",
+      "importance_rank": 0.0
+    },
+    {
+      "document": "sample_1 - Enhanced Customer Segmentation_springer (2).pdf",
+      "page_number": 13,
+      "section_title": "An advancement in segmentation accuracy and clarity has been made with the use",
+      "importance_rank": 0.19865624804428456
+    },
+    {
+      "document": "sample_1 - Enhanced Customer Segmentation_springer (2).pdf",
+      "page_number": 4,
+      "section_title": "K-Means:",
+      "importance_rank": 0.18945264110079635
+    },
+    {
+      "document": "sample_1 - Enhanced Customer Segmentation_springer (2).pdf",
+      "page_number": 5,
+      "section_title": "K-Means",
+      "importance_rank": 0.18945264110079635
+    },
+    {
+      "document": "sample_1 - Enhanced Customer Segmentation_springer (2).pdf",
+      "page_number": 6,
+      "section_title": "Use",
+      "importance_rank": 0.18945264110079635
+    },
+    {
+      "document": "sample_1 - Enhanced Customer Segmentation_springer (2).pdf",
+      "page_number": 1,
+      "section_title": "Enhanced Customer Segmentation:",
+      "importance_rank": 0.18831163411986462
+    }
+  ],
+  "subsection_analysis": [
+    {
+      "document": "sample_11 - research paper 2.pdf",
+      "page_number": 1,
+      "refined_text": "1 \n \nCUSTOMER SEGMENTATION USING \nMACHINE LEARNING \nAMAN BANDUNI*1, Prof  ILAVENDHAN A. 2 \n*1,2School of Computing Science & Engineering, \nGalgotias University, Greater Noida, U. in \nAbstract-The \nemergence \nof \nmany \ncompetitors \nand \nentrepreneurs has caused a lot of tension among competing \nbusinesses to find new buyers and keep the old ones."
+    },
+    {
+      "document": "sample_11 - research paper 2.pdf",
+      "page_number": 1,
+      "refined_text": "1 \n \nCUSTOMER SEGMENTATION USING \nMACHINE LEARNING \nAMAN BANDUNI*1, Prof  ILAVENDHAN A. 2 \n*1,2School of Computing Science & Engineering, \nGalgotias University, Greater Noida, U. in \nAbstract-The \nemergence \nof \nmany \ncompetitors \nand \nentrepreneurs has caused a lot of tension among competing \nbusinesses to find new buyers and keep the old ones."
+    },
+    {
+      "document": "sample_11 - research paper 2.pdf",
+      "page_number": 1,
+      "refined_text": "1 \n \nCUSTOMER SEGMENTATION USING \nMACHINE LEARNING \nAMAN BANDUNI*1, Prof  ILAVENDHAN A. 2 \n*1,2School of Computing Science & Engineering, \nGalgotias University, Greater Noida, U. in \nAbstract-The \nemergence \nof \nmany \ncompetitors \nand \nentrepreneurs has caused a lot of tension among competing \nbusinesses to find new buyers and keep the old ones."
+    },
+    {
+      "document": "sample_11 - research paper 2.pdf",
+      "page_number": 2,
+      "refined_text": "Customer Classification \nOver the years, the commercial world has become more \ncompetitive, as organizations such as these have to meet the \nneeds and desires of their customers, attract new customers, \nand thus improve their businesses. [6] The task of \nidentifying and meeting the needs and requirements of every \ncustomer in the business is very difficult. This is because \ncustomers can vary according to their needs, wants, \ndemographics, size, taste and taste, features etc."
+    },
+    {
+      "document": "sample_11 - research paper 2.pdf",
+      "page_number": 5,
+      "refined_text": "6 TotalSales vs OrderCount Clusters \nGreen customers have the lowest price and lowest order \ncount, meaning they are the lowest bidder. On the other \nhand, orange customers have the highest total sales and \nhighest order count, indicating that they are the highest \npriced customers. 7 AvgOrderValue vs OrderCount Clusters \nIn this structure, we consider the average order value versus \nthe order value."
+    },
+    {
+      "document": "sample_10 - research paper 3.pdf",
+      "page_number": 1,
+      "refined_text": "© 2023 IJNRD | Volume 8, Issue 6 June 2023 | ISSN: 2456-4184 | IJNRD. ORG \nIJNRD2306572 \nInternational Journal of Novel Research and Development (www. org) \n \nf718 \nCustomer Segmentation Using Machine \nLearning: A Comprehensive Research Study \nYash Parab,Jugal Dave \n \n \nABSTRACT:  \n  \nNowadays Customer segmentation became very popular method for dividing company’s customers \nfor retaining customers and making profit out of them, in the following study customers of different of \norganizations are classified on the basis of their behavioral characteristics such as spending and income, by \ntaking behavioral aspects into consideration makes these methods an efficient one as compares to others."
+    },
+    {
+      "document": "sample_10 - research paper 3.pdf",
+      "page_number": 1,
+      "refined_text": "© 2023 IJNRD | Volume 8, Issue 6 June 2023 | ISSN: 2456-4184 | IJNRD. ORG \nIJNRD2306572 \nInternational Journal of Novel Research and Development (www. org) \n \nf718 \nCustomer Segmentation Using Machine \nLearning: A Comprehensive Research Study \nYash Parab,Jugal Dave \n \n \nABSTRACT:  \n  \nNowadays Customer segmentation became very popular method for dividing company’s customers \nfor retaining customers and making profit out of them, in the following study customers of different of \norganizations are classified on the basis of their behavioral characteristics such as spending and income, by \ntaking behavioral aspects into consideration makes these methods an efficient one as compares to others."
+    },
+    {
+      "document": "sample_10 - research paper 3.pdf",
+      "page_number": 1,
+      "refined_text": "© 2023 IJNRD | Volume 8, Issue 6 June 2023 | ISSN: 2456-4184 | IJNRD. ORG \nIJNRD2306572 \nInternational Journal of Novel Research and Development (www. org) \n \nf718 \nCustomer Segmentation Using Machine \nLearning: A Comprehensive Research Study \nYash Parab,Jugal Dave \n \n \nABSTRACT:  \n  \nNowadays Customer segmentation became very popular method for dividing company’s customers \nfor retaining customers and making profit out of them, in the following study customers of different of \norganizations are classified on the basis of their behavioral characteristics such as spending and income, by \ntaking behavioral aspects into consideration makes these methods an efficient one as compares to others."
+    },
+    {
+      "document": "sample_10 - research paper 3.pdf",
+      "page_number": 1,
+      "refined_text": "© 2023 IJNRD | Volume 8, Issue 6 June 2023 | ISSN: 2456-4184 | IJNRD. ORG \nIJNRD2306572 \nInternational Journal of Novel Research and Development (www. org) \n \nf718 \nCustomer Segmentation Using Machine \nLearning: A Comprehensive Research Study \nYash Parab,Jugal Dave \n \n \nABSTRACT:  \n  \nNowadays Customer segmentation became very popular method for dividing company’s customers \nfor retaining customers and making profit out of them, in the following study customers of different of \norganizations are classified on the basis of their behavioral characteristics such as spending and income, by \ntaking behavioral aspects into consideration makes these methods an efficient one as compares to others."
+    },
+    {
+      "document": "sample_10 - research paper 3.pdf",
+      "page_number": 1,
+      "refined_text": "© 2023 IJNRD | Volume 8, Issue 6 June 2023 | ISSN: 2456-4184 | IJNRD. ORG \nIJNRD2306572 \nInternational Journal of Novel Research and Development (www. org) \n \nf718 \nCustomer Segmentation Using Machine \nLearning: A Comprehensive Research Study \nYash Parab,Jugal Dave \n \n \nABSTRACT:  \n  \nNowadays Customer segmentation became very popular method for dividing company’s customers \nfor retaining customers and making profit out of them, in the following study customers of different of \norganizations are classified on the basis of their behavioral characteristics such as spending and income, by \ntaking behavioral aspects into consideration makes these methods an efficient one as compares to others."
+    },
+    {
+      "document": "sample_4 - HCLTech_Annual_Report2023-24.pdf",
+      "page_number": 4,
+      "refined_text": "Message from\nthe Chairperson\nRoshni Nadar Malhotra."
+    },
+    {
+      "document": "sample_4 - HCLTech_Annual_Report2023-24.pdf",
+      "page_number": 6,
+      "refined_text": "Message\nfrom CEO &\nManaging Director\nC Vijayakumar\nMessage from \nthe CEO &\nManaging Director\nC Vijayakumar."
+    },
+    {
+      "document": "sample_4 - HCLTech_Annual_Report2023-24.pdf",
+      "page_number": 217,
+      "refined_text": "Standalone Financial Statements\n215\nStandalone\nInd AS\nFinancial Statements."
+    },
+    {
+      "document": "sample_4 - HCLTech_Annual_Report2023-24.pdf",
+      "page_number": 217,
+      "refined_text": "Standalone Financial Statements\n215\nStandalone\nInd AS\nFinancial Statements."
+    },
+    {
+      "document": "sample_4 - HCLTech_Annual_Report2023-24.pdf",
+      "page_number": 217,
+      "refined_text": "Standalone Financial Statements\n215\nStandalone\nInd AS\nFinancial Statements."
+    },
+    {
+      "document": "sample_1 - Enhanced Customer Segmentation_springer (2).pdf",
+      "page_number": 13,
+      "refined_text": "An advancement in segmentation accuracy and clarity has been made with the use \nof Gaussian Mixture Models (GMM) enhanced by Explainable AI (XAI) approaches \nlike SHAP (SHapley Additive exPlanations) and LIME (Local Interpretable \nModel-agnostic Explanations). In addition to increasing segmentation accuracy, \nGMM with XAI identifies the fundamental causes of consumer behavior. This is \nparticularly important for sectors where decision-making and customer experience are \ndirectly impacted by comprehending the logic behind AI-driven insights."
+    },
+    {
+      "document": "sample_1 - Enhanced Customer Segmentation_springer (2).pdf",
+      "page_number": 4,
+      "refined_text": "Pre-Processing steps: ‘Customer ID’ was excluded from the analysis as it does not \nprovide any useful information regarding customer’s behavior, characteristics or \npreferences and serves only as an identifier. It doesn't provide any information \nregarding spending patterns, age or income levels that are actually useful for \nclustering customers based on their behavior. It doesn't contribute any valuable \ninsights or patterns that could enhance the segmentation process."
+    },
+    {
+      "document": "sample_1 - Enhanced Customer Segmentation_springer (2).pdf",
+      "page_number": 5,
+      "refined_text": "Where ‘L’ is the likelihood of the model, ‘p’ is the number of parameters and ‘n’ is \nthe number of data points. The model with the lowest BIC score was selected for its \noptimal balance of complexity and fit. Results were visualized using a probabilistic \nsegment radar plot, showing the likelihood of a customer belonging to each cluster."
+    },
+    {
+      "document": "sample_1 - Enhanced Customer Segmentation_springer (2).pdf",
+      "page_number": 6,
+      "refined_text": "Result Analysis \nAspect \nK-means \nGaussian Mixture \nModel (GMM) \nModel Performance Metrics \n• Elbow Method: Optimal \nnumber of clusters lies \nbetween 4 and 5, based on \nthe elbow point of WCSS. • Silhouette Score: The \nhighest score (~0. 43) is \nachieved with 6 clusters, \nindicating a potential optimal \nconfiguration \n• Performance \nMetrics: Identifies \nthree customer \nsegments (Segment \n0, Segment 1, \nSegment 2), with \nassigned \nprobabilities for \neach."
+    },
+    {
+      "document": "sample_1 - Enhanced Customer Segmentation_springer (2).pdf",
+      "page_number": 1,
+      "refined_text": "Enhanced Customer Segmentation: \n A Comparative Analysis \n \nAnjana Rao1, Anushka Nandwani1, and Arshiya Singh1 \nElectronics and Communication Engineering, Indira Gandhi Delhi Technical University for \nWomen, Delhi, India. Customer segmentation is very important in today’s marketing \nenvironment to ensure that appropriate resources are utilized as businesses \nexpand. Our project considers the customers’ segmentation through K-Means \nclustering and Gaussian Mixture Models (GMM)."
+    }
+  ]
+}

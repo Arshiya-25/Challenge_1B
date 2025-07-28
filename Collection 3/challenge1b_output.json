@@ -1,0 +1,293 @@
+{
+  "metadata": {
+    "documents": [
+      "sample_6 - lech105.pdf",
+      "sample_5 - lech101.pdf",
+      "sample_8 - lech103.pdf",
+      "sample_9 - lech102.pdf",
+      "sample_7 - lech104.pdf"
+    ],
+    "persona": "organic Chemistry",
+    "job_to_be_done": "Studied NCERT Chemistry Units 1-5 to reinforce chemical domain knowledge necessary for accurate molecular graph construction. Concepts like bonding, coordination compounds, and reaction kinetics are fundamental to defining node and edge features in molecular graphs for GNN models.",
+    "timestamp": "2025-07-28T22:58:06.317690"
+  },
+  "extracted_sections": [
+    {
+      "document": "sample_6 - lech105.pdf",
+      "page_number": 1,
+      "section_title": "Coordination",
+      "importance_rank": 0.11934347762166111
+    },
+    {
+      "document": "sample_6 - lech105.pdf",
+      "page_number": 1,
+      "section_title": "Compounds",
+      "importance_rank": 0.11934347762166111
+    },
+    {
+      "document": "sample_6 - lech105.pdf",
+      "page_number": 1,
+      "section_title": "Objectives",
+      "importance_rank": 0.0
+    },
+    {
+      "document": "sample_6 - lech105.pdf",
+      "page_number": 1,
+      "section_title": "Unit",
+      "importance_rank": 0.0
+    },
+    {
+      "document": "sample_6 - lech105.pdf",
+      "page_number": 20,
+      "section_title": "Summary",
+      "importance_rank": 0.0
+    },
+    {
+      "document": "sample_5 - lech101.pdf",
+      "page_number": 1,
+      "section_title": "Solutions",
+      "importance_rank": 0.0
+    },
+    {
+      "document": "sample_5 - lech101.pdf",
+      "page_number": 1,
+      "section_title": "Objectives",
+      "importance_rank": 0.0
+    },
+    {
+      "document": "sample_5 - lech101.pdf",
+      "page_number": 1,
+      "section_title": "Unit",
+      "importance_rank": 0.0
+    },
+    {
+      "document": "sample_5 - lech101.pdf",
+      "page_number": 27,
+      "section_title": "Summary",
+      "importance_rank": 0.0
+    },
+    {
+      "document": "sample_5 - lech101.pdf",
+      "page_number": 27,
+      "section_title": "Exercises",
+      "importance_rank": 0.0
+    },
+    {
+      "document": "sample_8 - lech103.pdf",
+      "page_number": 2,
+      "section_title": "Chemical",
+      "importance_rank": 0.12334981058914161
+    },
+    {
+      "document": "sample_8 - lech103.pdf",
+      "page_number": 2,
+      "section_title": "Reaction",
+      "importance_rank": 0.12334981058914161
+    },
+    {
+      "document": "sample_8 - lech103.pdf",
+      "page_number": 1,
+      "section_title": "Objectives",
+      "importance_rank": 0.0
+    },
+    {
+      "document": "sample_8 - lech103.pdf",
+      "page_number": 1,
+      "section_title": "Unit",
+      "importance_rank": 0.0
+    },
+    {
+      "document": "sample_8 - lech103.pdf",
+      "page_number": 2,
+      "section_title": "Rate of a",
+      "importance_rank": 0.0
+    },
+    {
+      "document": "sample_9 - lech102.pdf",
+      "page_number": 1,
+      "section_title": "Objectives",
+      "importance_rank": 0.0
+    },
+    {
+      "document": "sample_9 - lech102.pdf",
+      "page_number": 1,
+      "section_title": "Electrochemistry",
+      "importance_rank": 0.0
+    },
+    {
+      "document": "sample_9 - lech102.pdf",
+      "page_number": 1,
+      "section_title": "Unit",
+      "importance_rank": 0.0
+    },
+    {
+      "document": "sample_9 - lech102.pdf",
+      "page_number": 28,
+      "section_title": "Summary",
+      "importance_rank": 0.0
+    },
+    {
+      "document": "sample_9 - lech102.pdf",
+      "page_number": 29,
+      "section_title": "Exercises",
+      "importance_rank": 0.0
+    },
+    {
+      "document": "sample_7 - lech104.pdf",
+      "page_number": 17,
+      "section_title": "Compounds of",
+      "importance_rank": 0.08840847877023109
+    },
+    {
+      "document": "sample_7 - lech104.pdf",
+      "page_number": 2,
+      "section_title": "Position in the",
+      "importance_rank": 0.06555922599161043
+    },
+    {
+      "document": "sample_7 - lech104.pdf",
+      "page_number": 1,
+      "section_title": "Objectives",
+      "importance_rank": 0.0
+    },
+    {
+      "document": "sample_7 - lech104.pdf",
+      "page_number": 1,
+      "section_title": "Unit",
+      "importance_rank": 0.0
+    },
+    {
+      "document": "sample_7 - lech104.pdf",
+      "page_number": 2,
+      "section_title": "Electronic",
+      "importance_rank": 0.0
+    }
+  ],
+  "subsection_analysis": [
+    {
+      "document": "sample_6 - lech105.pdf",
+      "page_number": 1,
+      "refined_text": "118\nChemistry\nIn the previous Unit we learnt that the transition metals\nform a large number of complex compounds in which\nthe metal atoms are bound to a number of anions or\nneutral molecules by sharing of electrons. In modern\nterminology such compounds are called coordination\ncompounds. The chemistry of coordination compounds\nis an important and challenging area of modern\ninorganic chemistry."
+    },
+    {
+      "document": "sample_6 - lech105.pdf",
+      "page_number": 1,
+      "refined_text": "118\nChemistry\nIn the previous Unit we learnt that the transition metals\nform a large number of complex compounds in which\nthe metal atoms are bound to a number of anions or\nneutral molecules by sharing of electrons. In modern\nterminology such compounds are called coordination\ncompounds. The chemistry of coordination compounds\nis an important and challenging area of modern\ninorganic chemistry."
+    },
+    {
+      "document": "sample_6 - lech105.pdf",
+      "page_number": 1,
+      "refined_text": "118\nChemistry\nIn the previous Unit we learnt that the transition metals\nform a large number of complex compounds in which\nthe metal atoms are bound to a number of anions or\nneutral molecules by sharing of electrons. In modern\nterminology such compounds are called coordination\ncompounds. The chemistry of coordination compounds\nis an important and challenging area of modern\ninorganic chemistry."
+    },
+    {
+      "document": "sample_6 - lech105.pdf",
+      "page_number": 1,
+      "refined_text": "118\nChemistry\nIn the previous Unit we learnt that the transition metals\nform a large number of complex compounds in which\nthe metal atoms are bound to a number of anions or\nneutral molecules by sharing of electrons. In modern\nterminology such compounds are called coordination\ncompounds. The chemistry of coordination compounds\nis an important and challenging area of modern\ninorganic chemistry."
+    },
+    {
+      "document": "sample_6 - lech105.pdf",
+      "page_number": 20,
+      "refined_text": "137\nCoordination Compounds\nSummary\nSummary\nSummary\nSummary\nSummary\nThe chemistry of coordination compounds is an important and challenging\narea of modern inorganic chemistry. During the last fifty years, advances in this\narea, have provided development of new concepts and models of bonding and\nmolecular structure, novel breakthroughs in chemical industry and vital\ninsights into the functioning of critical components of biological systems. The first systematic attempt at explaining the formation, reactions, structure\nand bonding of a coordination compound was made by A."
+    },
+    {
+      "document": "sample_5 - lech101.pdf",
+      "page_number": 1,
+      "refined_text": "After studying this Unit, you will be\nable to\n·\ndescribe the formation of different\ntypes of solutions;\n·\nexpress concentration of solution\nin different units;\n·\nstate and explain Henry’s law and\nRaoult’s law;\n·\ndistinguish between ideal and\nnon-ideal solutions;\n·\nexplain deviations of real solutions\nfrom Raoult’s law;\n·\ndescribe colligative properties of\nsolutions and correlate these with\nmolar masses of the solutes;\n·\nexplain abnormal colligative\nproperties exhibited by some\nsolutes in solutions. In normal life we rarely come across pure substances. Most of these are mixtures containing two or more pure\nsubstances."
+    },
+    {
+      "document": "sample_5 - lech101.pdf",
+      "page_number": 1,
+      "refined_text": "After studying this Unit, you will be\nable to\n·\ndescribe the formation of different\ntypes of solutions;\n·\nexpress concentration of solution\nin different units;\n·\nstate and explain Henry’s law and\nRaoult’s law;\n·\ndistinguish between ideal and\nnon-ideal solutions;\n·\nexplain deviations of real solutions\nfrom Raoult’s law;\n·\ndescribe colligative properties of\nsolutions and correlate these with\nmolar masses of the solutes;\n·\nexplain abnormal colligative\nproperties exhibited by some\nsolutes in solutions. In normal life we rarely come across pure substances. Most of these are mixtures containing two or more pure\nsubstances."
+    },
+    {
+      "document": "sample_5 - lech101.pdf",
+      "page_number": 1,
+      "refined_text": "After studying this Unit, you will be\nable to\n·\ndescribe the formation of different\ntypes of solutions;\n·\nexpress concentration of solution\nin different units;\n·\nstate and explain Henry’s law and\nRaoult’s law;\n·\ndistinguish between ideal and\nnon-ideal solutions;\n·\nexplain deviations of real solutions\nfrom Raoult’s law;\n·\ndescribe colligative properties of\nsolutions and correlate these with\nmolar masses of the solutes;\n·\nexplain abnormal colligative\nproperties exhibited by some\nsolutes in solutions. In normal life we rarely come across pure substances. Most of these are mixtures containing two or more pure\nsubstances."
+    },
+    {
+      "document": "sample_5 - lech101.pdf",
+      "page_number": 27,
+      "refined_text": "27\nSolutions\nSummary\nSummary\nSummary\nSummary\nSummary\nA solution is a homogeneous mixture of two or more substances. Solutions are\nclassified as solid, liquid and gaseous solutions. The concentration of a solution is\nexpressed in terms of mole fraction, molarity, molality and in percentages."
+    },
+    {
+      "document": "sample_5 - lech101.pdf",
+      "page_number": 27,
+      "refined_text": "27\nSolutions\nSummary\nSummary\nSummary\nSummary\nSummary\nA solution is a homogeneous mixture of two or more substances. Solutions are\nclassified as solid, liquid and gaseous solutions. The concentration of a solution is\nexpressed in terms of mole fraction, molarity, molality and in percentages."
+    },
+    {
+      "document": "sample_8 - lech103.pdf",
+      "page_number": 2,
+      "refined_text": "Kinetic studies not only help us to determine\nthe speed or rate of a chemical reaction but also describe the\nconditions by which the reaction rates can be altered. The factors\nsuch as concentration, temperature, pressure and catalyst affect the\nrate of a reaction. At the macroscopic level, we are interested in\namounts reacted or formed and the rates of their consumption or\nformation."
+    },
+    {
+      "document": "sample_8 - lech103.pdf",
+      "page_number": 2,
+      "refined_text": "Kinetic studies not only help us to determine\nthe speed or rate of a chemical reaction but also describe the\nconditions by which the reaction rates can be altered. The factors\nsuch as concentration, temperature, pressure and catalyst affect the\nrate of a reaction. At the macroscopic level, we are interested in\namounts reacted or formed and the rates of their consumption or\nformation."
+    },
+    {
+      "document": "sample_8 - lech103.pdf",
+      "page_number": 1,
+      "refined_text": "Chemistry, by its very nature, is concerned with change. Substances with well defined properties are converted\nby chemical reactions into other substances with\ndifferent properties. For any chemical reaction, chemists\ntry to find out\n(a) the feasibility of a chemical reaction which can be\npredicted by thermodynamics ( as you know that a\nreaction with DG < 0, at constant temperature and\npressure is feasible);\n(b) extent to which a reaction will proceed can be\ndetermined from chemical equilibrium;\n(c) speed of a reaction i."
+    },
+    {
+      "document": "sample_8 - lech103.pdf",
+      "page_number": 1,
+      "refined_text": "Chemistry, by its very nature, is concerned with change. Substances with well defined properties are converted\nby chemical reactions into other substances with\ndifferent properties. For any chemical reaction, chemists\ntry to find out\n(a) the feasibility of a chemical reaction which can be\npredicted by thermodynamics ( as you know that a\nreaction with DG < 0, at constant temperature and\npressure is feasible);\n(b) extent to which a reaction will proceed can be\ndetermined from chemical equilibrium;\n(c) speed of a reaction i."
+    },
+    {
+      "document": "sample_8 - lech103.pdf",
+      "page_number": 2,
+      "refined_text": "Kinetic studies not only help us to determine\nthe speed or rate of a chemical reaction but also describe the\nconditions by which the reaction rates can be altered. The factors\nsuch as concentration, temperature, pressure and catalyst affect the\nrate of a reaction. At the macroscopic level, we are interested in\namounts reacted or formed and the rates of their consumption or\nformation."
+    },
+    {
+      "document": "sample_9 - lech102.pdf",
+      "page_number": 1,
+      "refined_text": "Electrochemistry is the study of production of\nelectricity from energy released during spontaneous\nchemical reactions  and the use of electrical energy\nto bring about non-spontaneous chemical\ntransformations. The subject is of importance both\nfor theoretical and practical considerations. A large\nnumber of metals, sodium hydroxide, chlorine,\nfluorine and many other chemicals are produced by\nelectrochemical methods."
+    },
+    {
+      "document": "sample_9 - lech102.pdf",
+      "page_number": 1,
+      "refined_text": "Electrochemistry is the study of production of\nelectricity from energy released during spontaneous\nchemical reactions  and the use of electrical energy\nto bring about non-spontaneous chemical\ntransformations. The subject is of importance both\nfor theoretical and practical considerations. A large\nnumber of metals, sodium hydroxide, chlorine,\nfluorine and many other chemicals are produced by\nelectrochemical methods."
+    },
+    {
+      "document": "sample_9 - lech102.pdf",
+      "page_number": 1,
+      "refined_text": "Electrochemistry is the study of production of\nelectricity from energy released during spontaneous\nchemical reactions  and the use of electrical energy\nto bring about non-spontaneous chemical\ntransformations. The subject is of importance both\nfor theoretical and practical considerations. A large\nnumber of metals, sodium hydroxide, chlorine,\nfluorine and many other chemicals are produced by\nelectrochemical methods."
+    },
+    {
+      "document": "sample_9 - lech102.pdf",
+      "page_number": 28,
+      "refined_text": "58\nChemistry\nThe Hydrogen Economy\nThe Hydrogen Economy\nThe Hydrogen Economy\nThe Hydrogen Economy\nThe Hydrogen Economy\nAt present the main source of energy that is driving our economy is fossil fuels\nsuch as coal, oil and gas. As more people on the planet aspire to improve their\nstandard of living, their energy requirement will increase. In fact, the per\ncapita consumption of energy used is a measure of development."
+    },
+    {
+      "document": "sample_9 - lech102.pdf",
+      "page_number": 29,
+      "refined_text": "59\nElectrochemistry\nmolar conductivity of the ions in which it dissociates. It is known as law of\nindependent migration of ions and has many applications. Ions conduct electricity\nthrough the solution but oxidation and reduction of the ions take place at the\nelectrodes in an electrochemical cell."
+    },
+    {
+      "document": "sample_7 - lech104.pdf",
+      "page_number": 17,
+      "refined_text": "105\nThe d- and f- Block Elements\nIntext Question\nIntext Question\nIntext Question\nIntext Question\nIntext Question\n4. 9 Explain why Cu\n+ ion is not stable in aqueous solutions?\n4. 4 Some\nSome\nSome\nSome\nSome\nImportant\nImportant\nImportant\nImportant\nImportant\nCompounds of\nCompounds of\nCompounds of\nCompounds of\nCompounds of\nTransition\nTransition\nTransition\nTransition\nTransition\nElements\nElements\nElements\nElements\nElements\nWhat is meant by ‘disproportionation’ of an oxidation state? Give an\nexample."
+    },
+    {
+      "document": "sample_7 - lech104.pdf",
+      "page_number": 2,
+      "refined_text": "Hence, transition elements\nand their compounds are studied separately. However,\nthe usual theory of valence as applicable to the non-\ntransition elements can be applied successfully to the\ntransition elements also. Various precious metals such as silver, gold and\nplatinum and industrially important metals like iron,\ncopper and titanium belong to the transition metals series."
+    },
+    {
+      "document": "sample_7 - lech104.pdf",
+      "page_number": 1,
+      "refined_text": "The d-block of the periodic table contains the elements\nof the groups 3-12 in which the d orbitals are\nprogressively filled in each of the four long periods. The f-block consists of elements in which 4 f and 5 f\norbitals are progressively filled. They are placed in a\nseparate panel at the bottom of the periodic table."
+    },
+    {
+      "document": "sample_7 - lech104.pdf",
+      "page_number": 1,
+      "refined_text": "The d-block of the periodic table contains the elements\nof the groups 3-12 in which the d orbitals are\nprogressively filled in each of the four long periods. The f-block consists of elements in which 4 f and 5 f\norbitals are progressively filled. They are placed in a\nseparate panel at the bottom of the periodic table."
+    },
+    {
+      "document": "sample_7 - lech104.pdf",
+      "page_number": 2,
+      "refined_text": "Hence, transition elements\nand their compounds are studied separately. However,\nthe usual theory of valence as applicable to the non-\ntransition elements can be applied successfully to the\ntransition elements also. Various precious metals such as silver, gold and\nplatinum and industrially important metals like iron,\ncopper and titanium belong to the transition metals series."
+    }
+  ]
+}
