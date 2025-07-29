@@ -34,7 +34,6 @@ docker run --rm \
 * The `/output` directory will contain `output.json` in the required format
 
 
-
 ## Standout Features
 
 ### Persona-Aware Relevance Extraction
@@ -114,7 +113,6 @@ Each run produces a structured JSON file like:
 }
 ```
 
----
 
 ## Pass Criteria
 
@@ -144,4 +142,4 @@ Docrobat reflects our belief that intelligent document systems don’t need giga
 Made by **Team \[InnovateHers]**
 Adobe India Hackathon 2025 – Challenge 1B
 
-```
+
